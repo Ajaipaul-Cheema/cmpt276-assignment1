@@ -1,0 +1,83 @@
+h1 {
+    font-size: x-large;
+}
+h2 {
+	color: #bb1d35;
+    font-size: large;
+}
+h3 {
+	color: #bb1d35;
+    font-size: medium;
+}
+body {
+    background-color: #bb1d35;
+    padding-left: 35px;
+    padding-right: 35px;
+	margin: 0;
+}
+th {
+    background-color: #e6e6e6;
+    text-align: left;
+}
+table,tr,td,th {
+    table-layout: fixed;
+    height: 31px;
+    width: 139px;
+    padding: 0px;
+    border: 2px solid;
+    border-color: #dddddd;
+    border-collapse: collapse;
+}
+th, td {
+    padding-left: 5px;
+}
+th {
+    text-align: left;
+    background-color: #DFDDDE;
+}
+input[type=number] {
+    width: 38px;
+    height: 20px;
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
+section.bottom-grey {
+	height: 30px;
+	width: auto;
+	size: fixed;
+}
+section.border {
+    padding-top: 50px;
+    padding-bottom: 18px;
+    padding-left: 17px;
+    background-color: rgb(255, 255, 255);
+}
+section.white-box {
+    width: 730px;
+    background-color: #eff5f5;
+    padding: 0px 15px 15px 15px;
+    padding-bottom: 0px;
+    border-radius: 2px;
+    border: 2px solid #e0ebeb;
+}
+section.right-buttons {
+    float: right;
+    padding-top: 0px;
+    margin-bottom: 5px;
+}
+section.left-buttons {
+margin-top: 10px;
+}
+button {
+    width: 81px;
+    height: 23px;
+    color: white;
+    background-color: #bb1d35;
+    border-style: none;
+    border-radius: 2px;
+    font-size: 10px;
+    margin-left: 1px;
+}
+p {
+    font-size: medium;
+}
